@@ -1,7 +1,6 @@
-scikit-learn==1.5.0
-streamlit==1.22.0
-plotly==5.19.0
+scikit-learn==1.4.2
+streamlit
+plotly
 #seaborn
-#cufflinks
-xgboost==1.7.3
+xgboost==2.0.3
 #skimpy==0.0.15
